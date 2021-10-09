@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030606802776",
+    "project_id": "fir-testing-5747b",
+    "storage_bucket": "fir-testing-5747b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030606802776:android:3026355c4fc5a233bc9f2d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ml_text_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030606802776-k86ehqcuo289khqui1bb42aa0bedl7i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AcOaAaZazsX5UK1j2-FHF4BkV5UUzGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030606802776-k86ehqcuo289khqui1bb42aa0bedl7i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
